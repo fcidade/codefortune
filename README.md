@@ -5,7 +5,7 @@
 > Did you like the speaking dog and the ranbow? Checkout [cowsay](https://github.com/franciscocid/cowsay) and [lolcat](https://github.com/franciscocid/lolcat)!
 
 ---
-**Code Fortune** is a little `go` program that prints to stdout random coding phrases from [stormconsultancy](quotes.stormconsultancy.co.uk) and is inspired by the well known linux program called `fortune`.
+**Code Fortune** is a little `go` program that prints to stdout random coding phrases from [stormconsultancy](https://quotes.stormconsultancy.co.uk) and is inspired by the well known linux program called `fortune`.
 
 ### Install
 ```
